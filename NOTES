@@ -1,0 +1,10 @@
+16 June, 2024
+------------
+Working on "Pattern" implementation.
+Constructor takes an iweight and returns the highest
+weight state. From there can iterate through the
+other states/patterns.
+
+Next step is to implement iteration. May want to 
+consider whether indexing of the pattern objects
+can be simplified.
